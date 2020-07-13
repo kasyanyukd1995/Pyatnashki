@@ -1,1 +1,0 @@
-[{"nickname":"Димон","count":1},{"nickname":"Иван","count":3},{"nickname":"Алексей","count":1}]
